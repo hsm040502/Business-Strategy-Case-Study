@@ -51,9 +51,11 @@
 - **商模設計能力**：能設計 B2B2C 跨產業合作模式，打破現有市場成長瓶頸。
 - **專業視覺化簡報**：精鍊複雜數據，製作高品質、具備說服力的商業分析報告。
 
-## 📄 檔案下載
-- [查看台灣電動機車產業分析 PDF](./Taiwan_Electric_Motorcycle_Analysis.pdf)
-- [查看 Gogoro 策略提案 PDF](./Gogoro_Strategy_Proposal.pdf)
+## 📄 檔案下載與預覽
+由於報告檔案較大 (約40MB)，建議透過以下雲端連結線上預覽或下載：
+
+- 📂 [查看：台灣電動機車產業全景分析報告 (Google Drive)](https://drive.google.com/file/d/1Qz4-sEUMM1wOFRMuT4YKWiG1Rm5Na7Ia/view?usp=drive_link)
+- 📂 [查看：Gogoro「綠色漫遊」策略提案 (Google Drive)](https://drive.google.com/file/d/1pXnbMKzHJGQOw8X774bUAGVPgv-qUdes/view?usp=drive_link)
 
 ---
 *備註：以上專案為學術研究與個案模擬之成果，所引用數據均標註於簡報來源頁。*
