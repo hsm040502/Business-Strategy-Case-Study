@@ -2,7 +2,7 @@
 
 ![Strategy](https://img.shields.io/badge/Strategy-Market_Analysis-blue)
 ![Analysis](https://img.shields.io/badge/Logic-Top--Down-orange)
-![ROI](https://img.shields.io/badge/ROI-547.5x-red)
+![ROI](https://img.shields.io/badge/ROI-0.25-red)
 
 本倉庫收錄了關於台灣電動機車產業的兩大核心專題報告。展示如何透過 **「由上而下 (Top-down)」** 的分析邏輯，從宏觀產業趨勢切入，進而精準定位企業痛點，並產出具備財務顯著性 (ROI) 的商業解決方案。
 
